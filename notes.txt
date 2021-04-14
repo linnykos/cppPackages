@@ -1,0 +1,1 @@
+cppTemplate is a basic bare-bones Rcpp package just to show how to compile packages
